@@ -61,7 +61,7 @@
     ]
   },
   "main": "index.js",
-  "name": "jpush-react-native",
+  "name": "forceclouds-jpush-react-native",
   "peerDependencies": {
     "jcore-react-native": ">= 1.2.0"
   },
